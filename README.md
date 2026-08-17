@@ -9,7 +9,7 @@ I use quant models — VaR, Kupiec backtesting, portfolio optimization, option p
 ### QuantGuard AI
 
 <p align="center">
-  <img src="Portfolio%201.jpg" width="900" alt="QuantGuard AI dashboard — portfolio, risk, stress and derivatives modules">
+  <img src="FotoCapaReadmeQuantAi.jpg" width="900" alt="QuantGuard AI dashboard — portfolio, risk, stress and derivatives modules">
 </p>
 
 A framework that benchmarks externally generated financial outputs (e.g. from AI models) against independent quantitative models, and flags when the numbers don't hold up.
@@ -34,8 +34,8 @@ Python | Pandas | NumPy | SciPy | Streamlit | Plotly | Git | Java
 
 ## Currently studying
 
-Econometrics · Time Series · Asset Pricing · Mathematical Economics
+Econometrics | Time Series | Asset Pricing | Mathematical Economics
 
 ---
 
-Porto Alegre, Brazil · [LinkedIn](#) · [email](#)
+Porto Alegre, Brazil 
