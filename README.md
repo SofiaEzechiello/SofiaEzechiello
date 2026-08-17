@@ -1,52 +1,41 @@
-# Sofia Ezechiello
+# Sofia Marques Ezechiello
 
-Economics student at **UFRGS**, focused on **Quantitative Finance, Econometrics and Programming**.
+Economics science student at **UFRGS**, building toward quantitative finance and risk.
 
-My current work explores the application of quantitative methods to financial problems, particularly in portfolio construction, risk management, model validation and derivatives.
-
-## Areas of Interest
-
-* Quantitative Finance
-* Portfolio Optimization
-* Risk Management
-* Econometrics and Time Series
-* Financial Modeling
-* Artificial Intelligence applied to Finance
+I use quant models — VaR, Kupiec backtesting, portfolio optimization, option pricing — as an independent benchmark for financial claims, including the ones AI models make. If a number can't survive a benchmark check, I don't trust it, and I don't expect anyone else to either.
 
 ## Featured Project
 
 ### QuantGuard AI
 
 <p align="center">
-  <img src="Portfolio%201.jpg" width="900">
+  <img src="Portfolio%201.jpg" width="900" alt="QuantGuard AI dashboard — portfolio, risk, stress and derivatives modules">
 </p>
 
-A quantitative finance framework designed to benchmark and audit externally generated financial outputs.
+A framework that benchmarks externally generated financial outputs (e.g. from AI models) against independent quantitative models, and flags when the numbers don't hold up.
 
-The project combines:
+* Mean-variance optimization — Maximum Sharpe & Minimum Variance portfolios, out-of-sample validated
+* Sharpe Ratio adjusted by real CDI (Banco Central SGS API)
+* Parametric VaR, Historical VaR, Expected Shortfall
+* VaR backtesting with the Kupiec unconditional coverage test
+* Historical and factor-based stress testing
+* Black-Scholes vs. Monte Carlo option pricing, cross-validated against each other
+* 18 automated tests (pytest)
 
-* Mean-variance portfolio optimization
-* Maximum Sharpe and Minimum Variance portfolios
-* Out-of-sample validation
-* CDI-adjusted Sharpe Ratio
-* Parametric and Historical VaR
-* Expected Shortfall
-* Kupiec VaR backtesting
-* Historical and factor stress testing
-* Black-Scholes and Monte Carlo option pricing
-* Quantitative validation of external AI outputs
-* Automated testing with pytest
+**Repository:** [quantguard-ai](https://github.com/SofiaEzechiello/quantguard-ai)
 
-**Repository:** [QuantGuard AI](https://github.com/SofiaEzechiello/quantguard-ai)
+## What I'm working on next
 
-## Tech
+Walk-forward validation, the Christoffersen independence test, transaction costs, and volatility modeling — extending QuantGuard from a single train/test split to something closer to how risk models get validated in practice.
 
-**Python** · Pandas · NumPy · SciPy · Streamlit · Plotly · Git · Java
+## Stack
 
-## Currently Studying
+Python | Pandas | NumPy | SciPy | Streamlit | Plotly | Git | Java
 
-Econometrics · Time Series · Asset Pricing · Quantitative Finance · Mathematical Economics
+## Currently studying
+
+Econometrics · Time Series · Asset Pricing · Mathematical Economics
 
 ---
 
-Porto Alegre, Brazil
+Porto Alegre, Brazil · [LinkedIn](#) · [email](#)
