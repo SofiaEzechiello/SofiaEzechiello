@@ -17,6 +17,10 @@ My current work explores the application of quantitative methods to financial pr
 
 ### QuantGuard AI
 
+<p align="center">
+  <img src="Portfolio%201.jpg" width="900">
+</p>
+
 A quantitative finance framework designed to benchmark and audit externally generated financial outputs.
 
 The project combines:
