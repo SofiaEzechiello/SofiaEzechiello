@@ -2,31 +2,32 @@
 
 Economics student at **UFRGS**, building toward quantitative finance and risk.
 
-I use quant models — VaR, Kupiec backtesting, portfolio optimization, option pricing — as an independent benchmark for financial claims, including the ones AI models make. If a number can't survive a benchmark check, I don't trust it, and I don't expect anyone else to either.
+I use quantitative models — VaR, Kupiec backtesting, portfolio optimization and option pricing — as independent benchmarks for financial claims, including outputs produced by AI models.
+
+If a number cannot survive a quantitative benchmark check, I want to understand why.
 
 ## Featured Project
 
 ### QuantGuard AI
 
-<p align="center">
-  <img src="FotoCapaReadmeQuantAi.jpg" width="900" alt="QuantGuard AI dashboard — portfolio, risk, stress and derivatives modules">
-</p>
+A quantitative finance framework that benchmarks externally generated financial outputs against independent models and flags material numerical inconsistencies.
 
-A framework that benchmarks externally generated financial outputs (e.g. from AI models) against independent quantitative models, and flags when the numbers don't hold up.
+- Mean-variance optimization — Maximum Sharpe and Minimum Variance portfolios with out-of-sample validation
+- Sharpe Ratio adjusted using historical CDI data from the Banco Central do Brasil SGS API
+- Parametric VaR, Historical VaR and Expected Shortfall
+- VaR backtesting with the Kupiec unconditional coverage test
+- Historical and factor-based stress testing
+- Black-Scholes option pricing with Monte Carlo numerical cross-check
+- Interactive AI Financial Audit
+- 18 automated tests with pytest
 
-* Mean-variance optimization — Maximum Sharpe & Minimum Variance portfolios, out-of-sample validated
-* Sharpe Ratio adjusted by real CDI (Banco Central SGS API)
-* Parametric VaR, Historical VaR, Expected Shortfall
-* VaR backtesting with the Kupiec unconditional coverage test
-* Historical and factor-based stress testing
-* Black-Scholes vs. Monte Carlo option pricing, cross-validated against each other
-* 18 automated tests (pytest)
+**[Live Demo](https://quantguard-ai-mgmppztgaai6vm3qh2icym.streamlit.app/)** · **[Repository](https://github.com/SofiaEzechiello/quantguard-ai)**
 
-**Repository:** [quantguard-ai](https://github.com/SofiaEzechiello/quantguard-ai)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantguard-ai-mgmppztgaai6vm3qh2icym.streamlit.app/)
 
 ## What I'm working on next
 
-Walk-forward validation, the Christoffersen independence test, transaction costs, and volatility modeling — extending QuantGuard from a single train/test split to something closer to how risk models get validated in practice.
+Walk-forward validation, the Christoffersen independence test, transaction costs and volatility modeling — extending QuantGuard from a fixed train/test framework toward more realistic quantitative model validation.
 
 ## Stack
 
@@ -38,4 +39,4 @@ Econometrics | Time Series | Asset Pricing | Mathematical Economics
 
 ---
 
-Porto Alegre, Brazil 
+Porto Alegre, Brazil
