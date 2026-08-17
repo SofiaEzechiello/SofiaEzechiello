@@ -21,7 +21,7 @@ A quantitative finance framework that benchmarks externally generated financial 
 - Interactive AI Financial Audit
 - 18 automated tests with pytest
 
-**[Live Demo](https://quantguard-ai-mgmppztgaai6vm3qh2icym.streamlit.app/)** · **[Repository](https://github.com/SofiaEzechiello/quantguard-ai)**
+**[Live Demo](https://quantguard-ai-mgmppztgaai6vm3qh2icym.streamlit.app/)** | **[Repository](https://github.com/SofiaEzechiello/quantguard-ai)**
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantguard-ai-mgmppztgaai6vm3qh2icym.streamlit.app/)
 
