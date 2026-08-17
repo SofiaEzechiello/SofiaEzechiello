@@ -1,6 +1,6 @@
 # Sofia Marques Ezechiello
 
-Economics science student at **UFRGS**, building toward quantitative finance and risk.
+Economics student at **UFRGS**, building toward quantitative finance and risk.
 
 I use quant models — VaR, Kupiec backtesting, portfolio optimization, option pricing — as an independent benchmark for financial claims, including the ones AI models make. If a number can't survive a benchmark check, I don't trust it, and I don't expect anyone else to either.
 
