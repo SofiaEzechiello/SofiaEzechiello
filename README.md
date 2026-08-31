@@ -4,8 +4,6 @@ Economics student at **UFRGS**, building toward quantitative finance and risk.
 
 I use quantitative models — VaR, Kupiec backtesting, portfolio optimization and option pricing — as independent benchmarks for financial claims, including outputs produced by AI models.
 
-If a number cannot survive a quantitative benchmark check, I want to understand why.
-
 ## Featured Project
 
 ### QuantGuard AI
