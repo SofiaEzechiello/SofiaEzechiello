@@ -23,10 +23,6 @@ A quantitative finance framework that benchmarks externally generated financial 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantguard-ai-mgmppztgaai6vm3qh2icym.streamlit.app/)
 
-## What I'm working on next
-
-Walk-forward validation, the Christoffersen independence test, transaction costs and volatility modeling — extending QuantGuard from a fixed train/test framework toward more realistic quantitative model validation.
-
 ## Stack
 
 Python | Pandas | NumPy | SciPy | Streamlit | Plotly | Git | Java
