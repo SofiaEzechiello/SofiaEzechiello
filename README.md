@@ -1,13 +1,31 @@
-# Sofia Marques Ezechiello
+# Sofia Ezechiello
 
-Economics student at **UFRGS**, building toward quantitative finance and risk.
+Economics student at UFRGS focused on quantitative finance, market risk and software development.
 
-## Featured Project
+### Currently building
+- Quantitative finance and risk models in Python
+- Financial model validation tools
+- Internal business software and web applications
 
-**[Live Demo](https://quantguard-ai-mgmppztgaai6vm3qh2icym.streamlit.app/)** | **[Repository](https://github.com/SofiaEzechiello/quantguard-ai)**
+### Main interests
+Quantitative Finance · Market Risk · Derivatives · Python · Financial Engineering
+
+### Featured work
+
+####  QuantGuard AI
+Quantitative finance framework for validating AI-generated financial outputs.
+
+**[Live Demo](https://quantguard-ai-mgmppztgaai6vm3qh2icym.streamlit.app/)** · **[Repository](https://github.com/SofiaEzechiello/quantguard-ai)**
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantguard-ai-mgmppztgaai6vm3qh2icym.streamlit.app/)
 
+####  MEAA Gestão
+Internal management system for law-firm operations, client intake and case workflow.
+
+####  Marques Ezechiello Website
+Institutional website developed with React, TypeScript and Vite, including responsive design, dynamic routes and production deployment.
+
+**[Live Website](https://marquesezechiello.com.br)** · **[Repository](COLOQUE-AQUI-O-LINK-DO-REPOSITORIO)**
 
 <h3 align="left">Tech Stack</h3>
 
