@@ -1,6 +1,6 @@
 # Sofia Ezechiello
 
-Economics student at UFRGS focused on quantitative finance, market risk and software development.
+Economics student at UFRGS focused on quantitative finance and market risk.
 
 ### Currently building
 - Quantitative finance and risk models in Python
