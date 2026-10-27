@@ -2,14 +2,6 @@
 
 Economics student at UFRGS focused on quantitative finance and market risk.
 
-### Currently building
-- Quantitative finance and risk models in Python
-- Financial model validation tools
-- Internal business software and web applications
-
-### Main interests
-Quantitative Finance · Market Risk · Derivatives · Python · Financial Engineering
-
 ### Featured work
 
 ####  QuantGuard AI
