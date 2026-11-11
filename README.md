@@ -1,6 +1,6 @@
 # Sofia Ezechiello
 
-Economics student at UFRGS focused on quantitative finance and market risk.
+Economics student at UFRGS 
 
 ### Featured work
 
